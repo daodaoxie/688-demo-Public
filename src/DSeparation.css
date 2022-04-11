@@ -1,0 +1,22 @@
+.square {
+    pointer-events: none;
+    position: relative;
+    width: 28px;
+    height: 28px;
+    margin: 1px;
+    background-color: currentColor;
+    font-size: 14px;
+}
+
+circle {
+  fill: cadetblue;
+}
+line {
+  stroke: #ccc;
+}
+text {
+  text-anchor: middle;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  fill: black;
+  font-size: 16px;
+}
